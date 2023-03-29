@@ -58,7 +58,7 @@ article {
 }
 
 footer {
-    background-color: darkgrey;
+    background-color: lightgrey;
     padding: 3em;
     text-align: center;
     grid-area: footer;
